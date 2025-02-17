@@ -39,7 +39,7 @@ class HomeView extends StatelessWidget {
               backgroundColor: Colors.white,
               child: ClipOval(
                 child: Image(
-                  image: AssetImage('lib/assets/i.png'),
+                  image: AssetImage('assets/images/i.png'),
                   width: 140,
                   height: 140,
                   fit: BoxFit.cover,

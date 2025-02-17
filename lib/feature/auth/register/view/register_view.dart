@@ -24,7 +24,7 @@ class RegisterView extends StatelessWidget {
                   child: Column(
                     children: [
                       Image(
-                        image: AssetImage('lib/assets/i.png'),
+                        image: AssetImage('assets/images/i.png'),
                         width: 75,
                         height: 150,
                       ),
